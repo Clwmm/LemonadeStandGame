@@ -1,4 +1,4 @@
-# LemonadeStand
+# Lemonade Stand
 In this game,  u have to earn as much money as u can (there is and endgame, but you can't chieve it in this version) by running investments and upgrading them. 
 
 It's simple game, but I had so much fun creating it. Everything was made using c++ 14 and SFML.
